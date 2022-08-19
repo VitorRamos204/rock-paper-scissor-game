@@ -3,7 +3,7 @@ from time import sleep
 
 itens = ('Rock', 'Paper', 'Scissor')
 computer = randint(0, 2)
-print('''Suas opções:
+print('''Choose one option:
 [ 0 ] Rock
 [ 1 ] Paper
 [ 2 ] Scissor ''')
